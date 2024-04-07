@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/laaksonen-portfolio/static/css/main.1d77a22a.css",
+    "main.js": "/laaksonen-portfolio/static/js/main.61581419.js",
+    "static/js/453.af1ac4eb.chunk.js": "/laaksonen-portfolio/static/js/453.af1ac4eb.chunk.js",
+    "static/media/eiri.png": "/laaksonen-portfolio/static/media/eiri.be21bbf8da93462f0f49.png",
+    "static/media/PracticalAI.png": "/laaksonen-portfolio/static/media/PracticalAI.6453e2d312bc69b24e7a.png",
+    "static/media/csm-badge.png": "/laaksonen-portfolio/static/media/csm-badge.93655c616365bbc077c5.png",
+    "index.html": "/laaksonen-portfolio/index.html",
+    "main.1d77a22a.css.map": "/laaksonen-portfolio/static/css/main.1d77a22a.css.map",
+    "main.61581419.js.map": "/laaksonen-portfolio/static/js/main.61581419.js.map",
+    "453.af1ac4eb.chunk.js.map": "/laaksonen-portfolio/static/js/453.af1ac4eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d77a22a.css",
+    "static/js/main.61581419.js"
+  ]
+}
