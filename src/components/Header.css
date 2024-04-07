@@ -45,7 +45,7 @@ span {
 .nav-link:hover, 
 .ho:hover, 
 .nav-link:hover span { 
-	color: #17a2b8 !important; 
+	color: black !important; 
 } 
 
 .navbar-toggler { 
